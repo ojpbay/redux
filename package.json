@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "npm": "^5.8.0",
     "redux": "^3.6.0"
   }
 }
